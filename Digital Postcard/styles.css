@@ -1,0 +1,74 @@
+.postcard{
+    width:600px;
+    height:350px;
+    border-style: solid;
+    margin:auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px ;
+}
+
+.postcard h1{margin:0;
+font-family: 'Sriracha', cursive;
+font-size: 35px;
+
+}
+
+.postcard-header{
+    overflow: hidden;
+}
+
+.postcard-body{
+    overflow: hidden;
+}
+
+.postcard-header img{
+max-width: 80px;
+float: right;
+}
+
+.body-left{
+    float:left;
+    width: 50%;
+    height: 200px;
+  
+}
+
+.body-right{
+    float:right;
+    width: 50%;
+    height: 200px;
+
+}
+
+.body-right input {display: block}
+
+input{
+    font-size: 18px
+}
+
+.button{
+    border-style: solid 1px;
+    text-align: center;
+    width:60px;
+    border-radius: 2px;
+}
+
+.postcard-footer{
+    padding:10px;
+    text-align: center;
+
+}
+
+.postcard-footer input[type=submit]{
+    margin:auto;
+    border:none;
+    border-bottom: 1px solid gray;
+
+}
+
+.postcard p{
+    font-family: 'Sriracha', cursive;
+}
