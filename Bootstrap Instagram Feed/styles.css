@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Oleo Script', cursive;
+}
+
+
+.card-body,.card-header, .card-footer{
+    border: 0px;
+    padding: 0px;
+    margin: 5px;
+   background-color: white;
+}
+
+
+.card{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+
+
+#main-pane
+{
+    background-color: rgb(201, 198, 201);
+}
+
+.card-header{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#caption
+{
+    height: 200px;
+    margin: 5px;
+}
+
+#tiny-buttons{
+    padding: 5px;
+}
+
