@@ -1,0 +1,18 @@
+/* 
+    General Styles
+*/
+Body {
+  background-image: url(../img/pexels-jess-bailey-designs-743986.jpg);
+  background-size: 75%;
+    background-attachment: fixed;
+    background-color: slategrey;
+};
+
+.list-group, form {
+      margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  padding: 5px;
+}
+
