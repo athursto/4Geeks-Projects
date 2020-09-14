@@ -1,0 +1,46 @@
+/* 
+    General Styles
+*/
+
+.img-responsive {
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+Body {
+  background-image: url(../img/nightsky.jpg);
+  background-size: 100%;
+    background-attachment: fixed;
+    background-color: black;
+};
+
+
+h2, .footer p, .footer i{
+    color: white;
+
+}
+
+#cardholder, #cardholder2{
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.card{
+    opacity: 0.9;
+}
+
+/*.footer{
+    align-items: center;}
+
+
+#holding {
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.card {
+    display: inline-block;
+   height: 200px;
+    white-space: normal;
+}*/
